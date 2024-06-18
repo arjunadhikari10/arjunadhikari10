@@ -18,6 +18,8 @@ Hello! I'm **Arjun Adhikari**, a civil engineering student having keen interest 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=AutoCAD)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
+
 
 ## 👨‍💻 Me on GitHub
 - [Arjun-Adhikari](https://github.com/arjunadhikari10)
