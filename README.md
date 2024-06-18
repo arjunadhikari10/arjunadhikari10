@@ -1,7 +1,7 @@
 # 👋 Hi! I'm **Arjun Adhikari**
 
 ## 👷 About Me
-Hello! I'm **Arjun Adhikari**, a civil engineerign student having keen interest in Data Science, Machine Learning.
+Hello! I'm **Arjun Adhikari**, a civil engineering student having keen interest in Data Science, Machine Learning.
 
 ## 🌱 I’m Currently Learning
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
