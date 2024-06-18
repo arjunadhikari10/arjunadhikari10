@@ -9,6 +9,7 @@ Hello! I'm **Arjun Adhikari**, a civil engineerign student having keen interest 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-000?&logo=GeoPandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=Scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
